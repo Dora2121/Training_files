@@ -1,0 +1,16 @@
+E:\c# assignment\sept-27 assignments\sept-27 assignments\bin\Debug\sept-27 assignments.exe.config
+E:\c# assignment\sept-27 assignments\sept-27 assignments\bin\Debug\sept-27 assignments.exe
+E:\c# assignment\sept-27 assignments\sept-27 assignments\bin\Debug\sept-27 assignments.pdb
+E:\c# assignment\sept-27 assignments\sept-27 assignments\obj\Debug\sept-27 assignments.csproj.AssemblyReference.cache
+E:\c# assignment\sept-27 assignments\sept-27 assignments\obj\Debug\sept-27 assignments.csproj.SuggestedBindingRedirects.cache
+E:\c# assignment\sept-27 assignments\sept-27 assignments\obj\Debug\sept-27 assignments.csproj.CoreCompileInputs.cache
+E:\c# assignment\sept-27 assignments\sept-27 assignments\obj\Debug\sept-27 assignments.exe
+E:\c# assignment\sept-27 assignments\sept-27 assignments\obj\Debug\sept-27 assignments.pdb
+E:\c# assignment\sept-27 assignments\sept-27 assignments\bin\Debug\bussinesslogic.dll
+E:\c# assignment\sept-27 assignments\sept-27 assignments\bin\Debug\helper.dll
+E:\c# assignment\sept-27 assignments\sept-27 assignments\bin\Debug\bussinesslogic.pdb
+E:\c# assignment\sept-27 assignments\sept-27 assignments\bin\Debug\helper.pdb
+E:\c# assignment\sept-27 assignments\sept-27 assignments\obj\Debug\sept-27 assignments.csproj.CopyComplete
+E:\c# assignment\sept-27 assignments\sept-27 assignments\bin\Debug\dataaccess.dll
+E:\c# assignment\sept-27 assignments\sept-27 assignments\bin\Debug\dataaccess.pdb
+E:\c# assignment\sept-27 assignments\sept-27 assignments\bin\Debug\dataaccess.dll.config

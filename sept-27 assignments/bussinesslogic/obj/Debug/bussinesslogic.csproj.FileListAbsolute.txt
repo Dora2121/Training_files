@@ -1,0 +1,6 @@
+E:\c# assignment\sept-27 assignments\bussinesslogic\bin\Debug\bussinesslogic.dll
+E:\c# assignment\sept-27 assignments\bussinesslogic\bin\Debug\bussinesslogic.pdb
+E:\c# assignment\sept-27 assignments\bussinesslogic\obj\Debug\bussinesslogic.csproj.AssemblyReference.cache
+E:\c# assignment\sept-27 assignments\bussinesslogic\obj\Debug\bussinesslogic.csproj.CoreCompileInputs.cache
+E:\c# assignment\sept-27 assignments\bussinesslogic\obj\Debug\bussinesslogic.dll
+E:\c# assignment\sept-27 assignments\bussinesslogic\obj\Debug\bussinesslogic.pdb

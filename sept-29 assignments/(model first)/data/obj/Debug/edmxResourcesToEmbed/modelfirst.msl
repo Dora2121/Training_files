@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="modelfirstStoreContainer" CdmEntityContainer="modelfirstContainer">
+    <EntitySetMapping Name="borrows">
+      <EntityTypeMapping TypeName="IsTypeOf(modelfirst.borrow)">
+        <MappingFragment StoreEntitySet="borrows">
+          <ScalarProperty Name="borrow_id" ColumnName="borrow_id" />
+          <ScalarProperty Name="borrow_name" ColumnName="borrow_name" />
+          <ScalarProperty Name="city" ColumnName="city" />
+          <ScalarProperty Name="state" ColumnName="state" />
+          <ScalarProperty Name="country" ColumnName="country" />
+          <ScalarProperty Name="street" ColumnName="street" />
+          <ScalarProperty Name="company_name" ColumnName="company_name" />
+          <ScalarProperty Name="jobname" ColumnName="jobname" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="loans">
+      <EntityTypeMapping TypeName="IsTypeOf(modelfirst.loan)">
+        <MappingFragment StoreEntitySet="loans">
+          <ScalarProperty Name="loanid" ColumnName="loanid" />
+          <ScalarProperty Name="loanname" ColumnName="loanname" />
+          <ScalarProperty Name="amount" ColumnName="amount" />
+          <ScalarProperty Name="duration" ColumnName="duration" />
+          <ScalarProperty Name="rateofinterest" ColumnName="rateofinterest" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="books">
+      <EntityTypeMapping TypeName="modelfirst.book">
+        <MappingFragment StoreEntitySet="book">
+          <ScalarProperty Name="book_author" ColumnName="book_author" />
+          <ScalarProperty Name="book_name" ColumnName="book_name" />
+          <ScalarProperty Name="book_id" ColumnName="book_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

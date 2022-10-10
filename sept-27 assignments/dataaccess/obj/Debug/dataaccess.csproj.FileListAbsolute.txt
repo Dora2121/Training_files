@@ -1,0 +1,10 @@
+E:\c# assignment\sept-27 assignments\dataaccess\bin\Debug\dataaccess.dll
+E:\c# assignment\sept-27 assignments\dataaccess\bin\Debug\dataaccess.pdb
+E:\c# assignment\sept-27 assignments\dataaccess\obj\Debug\dataaccess.csproj.AssemblyReference.cache
+E:\c# assignment\sept-27 assignments\dataaccess\obj\Debug\dataaccess.csproj.CoreCompileInputs.cache
+E:\c# assignment\sept-27 assignments\dataaccess\obj\Debug\dataaccess.dll
+E:\c# assignment\sept-27 assignments\dataaccess\obj\Debug\dataaccess.pdb
+E:\c# assignment\sept-27 assignments\dataaccess\bin\Debug\bussinesslogic.dll
+E:\c# assignment\sept-27 assignments\dataaccess\bin\Debug\bussinesslogic.pdb
+E:\c# assignment\sept-27 assignments\dataaccess\obj\Debug\dataaccess.csproj.CopyComplete
+E:\c# assignment\sept-27 assignments\dataaccess\bin\Debug\dataaccess.dll.config

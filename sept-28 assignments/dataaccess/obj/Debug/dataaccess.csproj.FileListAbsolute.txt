@@ -1,0 +1,12 @@
+E:\c# assignment\sept-28 assignments\dataaccess\bin\Debug\dataaccess.dll
+E:\c# assignment\sept-28 assignments\dataaccess\bin\Debug\dataaccess.pdb
+E:\c# assignment\sept-28 assignments\dataaccess\obj\Debug\dataaccess.csproj.AssemblyReference.cache
+E:\c# assignment\sept-28 assignments\dataaccess\obj\Debug\dataaccess.csproj.CoreCompileInputs.cache
+E:\c# assignment\sept-28 assignments\dataaccess\obj\Debug\dataaccess.dll
+E:\c# assignment\sept-28 assignments\dataaccess\obj\Debug\dataaccess.pdb
+E:\c# assignment\sept-28 assignments\dataaccess\bin\Debug\dataaccess.dll.config
+E:\c# assignment\sept-28 assignments\dataaccess\bin\Debug\EntityFramework.dll
+E:\c# assignment\sept-28 assignments\dataaccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\c# assignment\sept-28 assignments\dataaccess\bin\Debug\EntityFramework.xml
+E:\c# assignment\sept-28 assignments\dataaccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\c# assignment\sept-28 assignments\dataaccess\obj\Debug\dataaccess.csproj.CopyComplete

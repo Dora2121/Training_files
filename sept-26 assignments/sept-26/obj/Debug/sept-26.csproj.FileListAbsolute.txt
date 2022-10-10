@@ -1,0 +1,16 @@
+E:\c# assignment\sept-26\sept-26\bin\Debug\sept-26.exe.config
+E:\c# assignment\sept-26\sept-26\bin\Debug\sept-26.exe
+E:\c# assignment\sept-26\sept-26\bin\Debug\sept-26.pdb
+E:\c# assignment\sept-26\sept-26\bin\Debug\bussinesslogic.dll
+E:\c# assignment\sept-26\sept-26\bin\Debug\helper.dll
+E:\c# assignment\sept-26\sept-26\bin\Debug\data access.dll
+E:\c# assignment\sept-26\sept-26\bin\Debug\bussinesslogic.pdb
+E:\c# assignment\sept-26\sept-26\bin\Debug\helper.pdb
+E:\c# assignment\sept-26\sept-26\bin\Debug\data access.pdb
+E:\c# assignment\sept-26\sept-26\bin\Debug\data access.dll.config
+E:\c# assignment\sept-26\sept-26\obj\Debug\sept-26.csproj.AssemblyReference.cache
+E:\c# assignment\sept-26\sept-26\obj\Debug\sept-26.csproj.SuggestedBindingRedirects.cache
+E:\c# assignment\sept-26\sept-26\obj\Debug\sept-26.csproj.CoreCompileInputs.cache
+E:\c# assignment\sept-26\sept-26\obj\Debug\sept-26.csproj.CopyComplete
+E:\c# assignment\sept-26\sept-26\obj\Debug\sept-26.exe
+E:\c# assignment\sept-26\sept-26\obj\Debug\sept-26.pdb

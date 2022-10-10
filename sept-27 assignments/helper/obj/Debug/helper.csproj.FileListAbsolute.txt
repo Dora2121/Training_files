@@ -1,0 +1,12 @@
+E:\c# assignment\sept-27 assignments\helper\bin\Debug\helper.dll
+E:\c# assignment\sept-27 assignments\helper\bin\Debug\helper.pdb
+E:\c# assignment\sept-27 assignments\helper\obj\Debug\helper.csproj.AssemblyReference.cache
+E:\c# assignment\sept-27 assignments\helper\obj\Debug\helper.csproj.CoreCompileInputs.cache
+E:\c# assignment\sept-27 assignments\helper\obj\Debug\helper.dll
+E:\c# assignment\sept-27 assignments\helper\obj\Debug\helper.pdb
+E:\c# assignment\sept-27 assignments\helper\bin\Debug\bussinesslogic.dll
+E:\c# assignment\sept-27 assignments\helper\bin\Debug\dataaccess.dll
+E:\c# assignment\sept-27 assignments\helper\bin\Debug\bussinesslogic.pdb
+E:\c# assignment\sept-27 assignments\helper\bin\Debug\dataaccess.pdb
+E:\c# assignment\sept-27 assignments\helper\obj\Debug\helper.csproj.CopyComplete
+E:\c# assignment\sept-27 assignments\helper\bin\Debug\dataaccess.dll.config

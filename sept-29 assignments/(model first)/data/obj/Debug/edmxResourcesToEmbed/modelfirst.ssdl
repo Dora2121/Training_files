@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="modelfirst.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="book">
+    <Key>
+      <PropertyRef Name="book_id" />
+    </Key>
+    <Property Name="book_id" Type="int" Nullable="false" />
+    <Property Name="book_name" Type="varchar" MaxLength="20" />
+    <Property Name="book_author" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="borrows">
+    <Key>
+      <PropertyRef Name="borrow_id" />
+    </Key>
+    <Property Name="borrow_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="borrow_name" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="city" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="state" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="country" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="street" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="company_name" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="jobname" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="loans">
+    <Key>
+      <PropertyRef Name="loanid" />
+    </Key>
+    <Property Name="loanid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="loanname" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="amount" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="duration" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="rateofinterest" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="modelfirstStoreContainer">
+    <EntitySet Name="book" EntityType="Self.book" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="borrows" EntityType="Self.borrows" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="loans" EntityType="Self.loans" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

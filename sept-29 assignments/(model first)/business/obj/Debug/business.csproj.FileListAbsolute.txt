@@ -1,0 +1,6 @@
+E:\c# assignment\sept-29 assignments(model first)\business\bin\Debug\business.dll
+E:\c# assignment\sept-29 assignments(model first)\business\bin\Debug\business.pdb
+E:\c# assignment\sept-29 assignments(model first)\business\obj\Debug\business.csproj.AssemblyReference.cache
+E:\c# assignment\sept-29 assignments(model first)\business\obj\Debug\business.csproj.CoreCompileInputs.cache
+E:\c# assignment\sept-29 assignments(model first)\business\obj\Debug\business.dll
+E:\c# assignment\sept-29 assignments(model first)\business\obj\Debug\business.pdb

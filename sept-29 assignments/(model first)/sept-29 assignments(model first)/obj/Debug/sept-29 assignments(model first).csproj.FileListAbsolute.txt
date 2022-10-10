@@ -1,0 +1,19 @@
+E:\c# assignment\sept-29 assignments(model first)\sept-29 assignments(model first)\bin\Debug\sept-29 assignments(model first).exe.config
+E:\c# assignment\sept-29 assignments(model first)\sept-29 assignments(model first)\bin\Debug\sept-29 assignments(model first).exe
+E:\c# assignment\sept-29 assignments(model first)\sept-29 assignments(model first)\bin\Debug\sept-29 assignments(model first).pdb
+E:\c# assignment\sept-29 assignments(model first)\sept-29 assignments(model first)\obj\Debug\sept-29 assignments(model first).csproj.AssemblyReference.cache
+E:\c# assignment\sept-29 assignments(model first)\sept-29 assignments(model first)\obj\Debug\sept-29 assignments(model first).csproj.SuggestedBindingRedirects.cache
+E:\c# assignment\sept-29 assignments(model first)\sept-29 assignments(model first)\obj\Debug\sept-29 assignments(model first).csproj.CoreCompileInputs.cache
+E:\c# assignment\sept-29 assignments(model first)\sept-29 assignments(model first)\obj\Debug\sept-29 assignments(model first).exe
+E:\c# assignment\sept-29 assignments(model first)\sept-29 assignments(model first)\obj\Debug\sept-29 assignments(model first).pdb
+E:\c# assignment\sept-29 assignments(model first)\sept-29 assignments(model first)\bin\Debug\data.dll
+E:\c# assignment\sept-29 assignments(model first)\sept-29 assignments(model first)\bin\Debug\data.pdb
+E:\c# assignment\sept-29 assignments(model first)\sept-29 assignments(model first)\obj\Debug\sept-29 assignments(model first).csproj.CopyComplete
+E:\c# assignment\sept-29 assignments(model first)\sept-29 assignments(model first)\bin\Debug\EntityFramework.dll
+E:\c# assignment\sept-29 assignments(model first)\sept-29 assignments(model first)\bin\Debug\EntityFramework.SqlServer.dll
+E:\c# assignment\sept-29 assignments(model first)\sept-29 assignments(model first)\bin\Debug\data.dll.config
+E:\c# assignment\sept-29 assignments(model first)\sept-29 assignments(model first)\bin\Debug\EntityFramework.xml
+E:\c# assignment\sept-29 assignments(model first)\sept-29 assignments(model first)\bin\Debug\EntityFramework.SqlServer.xml
+E:\c# assignment\sept-29 assignments(model first)\sept-29 assignments(model first)\bin\Debug\bal.dll
+E:\c# assignment\sept-29 assignments(model first)\sept-29 assignments(model first)\bin\Debug\bal.pdb
+E:\c# assignment\sept-29 assignments(model first)\sept-29 assignments(model first)\bin\Debug\bal.dll.config
